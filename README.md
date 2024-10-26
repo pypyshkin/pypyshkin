@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @pypyshkin
-- 👀 I’m interested in web-development
-- 🌱 I’m currently learning basics of HTML, CSS & JS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I'm Dmitriy
+- 👀 I’m interested in qa
+- 🌱 I’m currently learning basics of Postman, Swagger
+
 
 <!---
 pypyshkin/pypyshkin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
